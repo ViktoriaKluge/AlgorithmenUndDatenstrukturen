@@ -1,0 +1,24 @@
+# --- Build-Artefakte ---
+*.exe
+*.o
+*.obj
+*.out
+a.out
+bin/
+obj/
+
+# --- IDE: Code::Blocks / VS Code / JetBrains---
+*.cbp
+*.layout
+*.depend
+.vscode/
+.history/
+.idea/
+
+# --- Angaben ---
+*.pdf
+
+# --- Betriebssystem ---
+Thumbs.db
+desktop.ini
+.DS_Store
